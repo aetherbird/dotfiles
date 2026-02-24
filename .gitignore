@@ -13,6 +13,7 @@
 !.config/niri/
 !.config/hypr
 !.config/kitty
+!.config/ghostty
 !.config/fuzzel
 !.scripts/
 !README.md
