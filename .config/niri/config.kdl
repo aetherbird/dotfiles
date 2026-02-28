@@ -40,7 +40,7 @@ input { keyboard {
         middle-emulation
     }
 
-    warp-mouse-to-focus
+    // warp-mouse-to-focus
     focus-follows-mouse max-scroll-amount="0%"
 }
 
@@ -217,7 +217,7 @@ binds {
     Mod+Slash { show-hotkey-overlay; }
 
     // Suggested binds for running programs: terminal, app launcher, screen locker.
-    Mod+Return { spawn "kitty"; }
+    Mod+Return { spawn "ghostty"; }
     Mod+A { spawn "fuzzel"; }
     Super+Escape { spawn "swaylock"; }
     Mod+X { focus-monitor-right; }

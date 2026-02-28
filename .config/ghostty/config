@@ -1,8 +1,6 @@
 # -----------------------------
-# Eldritch Dark (Kitty Match)
+# Theming is fun
 # -----------------------------
-
-shell = /usr/bin/bash
 
 window-theme = dark
 title = GhosTTY
@@ -59,6 +57,4 @@ palette = 13=#FD92CE
 palette = 14=#66e4fd
 palette = 15=#ffffff
 
-# Optional theme loader (disabled to prevent override)
 # config-file = ?~/.config/ghostty/theme.conf
-# config-file = ?~/.config/ghostty/wallust.conf
