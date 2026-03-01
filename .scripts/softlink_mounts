@@ -1,0 +1,7 @@
+#!/bin/bash
+
+mkdir -p /run/media/toby
+ln -s /mnt/data-01/ /run/media/Data-01
+ln -s /mnt/data-01/ /run/media/Data-02
+ln -s /mnt/data-01/ /run/media/toby/Data-01
+ln -s /mnt/data-01/ /run/media/toby/Data-02
