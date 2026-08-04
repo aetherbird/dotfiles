@@ -9,3 +9,4 @@ User profile configs and scripts for Debian environments (bash, aliases, vim, nv
 - tmux config
 - deployment script in .scripts
 - niri and wayland desktop configuration
+- other configs
