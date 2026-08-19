@@ -15,6 +15,7 @@
 !.config/kitty
 !.config/ghostty
 !.config/fuzzel
+!.config/tmux
 !.scripts/
 !README.md
 !.tmux.conf
